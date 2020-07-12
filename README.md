@@ -27,7 +27,7 @@ This data entry task can be automated.Simultaneously, It is also time efficient 
      - Clone this repo to your local machine using `https://github.com/MukilSaravanan/Automate-webform-filling.git`
   ### Step 2
   * Create a new feature branch `git checkout -b feature`
-  * Commit your changes `git commit -am 'Add some updates`
+  * Commit your changes `git commit -am 'Add some updates'`
   * Push to the branch `git push origin feature`
   ### Step 3
   - Create a new pull request using https://github.com/MukilSaravanan/Automate-webform-filling/compare/ <a name="contributing"/>
