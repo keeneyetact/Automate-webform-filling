@@ -17,6 +17,7 @@ This data entry task can be automated.Simultaneously, It is also time efficient 
 4.	Creating a web form ,in the predefined format, for filling the data .
 5.	By using selenium webdriver, the web form can be accessed and the data is filled.
 
+For more details, Open Methodology.docx
 <a name="solution_approach"/>
 
 ## Contributing
