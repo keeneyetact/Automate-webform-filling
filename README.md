@@ -1,8 +1,8 @@
 # Automate-webform-filling
 
-The data entry operator may be required to verify or edit data as it is entered,or another person might do this work.The data entry work may be time consuming,repeatative process and the data entry may even go wrong on times,due to lack of concentration,stress or some other reasons.So,this requires keen attention for every single moment to avoid mistakes,which  may not be guaranteed.
-This data entry task can be automated.Simultaneously,It is also time efficient with good amount of accuracy,non-painstaking process. This allows the person to engage in some other valuable tasks.</br>
-This automation task can be done with python3 code,using selenium and Gmail API.
+* The data entry operator may be required to verify or edit data as it is entered, or another person might do this work.The data entry work may be time consuming, repeatative process and the data entry may even go wrong on times.So, this requires keen attention for every single moment to avoid mistakes, which  may not be guaranteed.
+This data entry task can be automated.Simultaneously, It is also time efficient with good amount of accuracy, non-painstaking process.</br>
+* This automation task can be done with python3, using selenium and Gmail API.
 
 ## Table of Contents  
 [Solution Approach](#solution_approach)<br />
