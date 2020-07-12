@@ -15,8 +15,9 @@ This data entry task can be automated.Simultaneously, It is also time efficient 
 2.	Moving the downloaded attachment to the required folder  ‘Downloaded Attachments’.
 3.	Accessing the saved file, that contains the data to be filled in the web form.
 4.	Creating a web form ,in the predefined format, for filling the data .
-5.	By using selenium webdriver, the web form can be accessed and the data is filled.
+5.	By using selenium webdriver, the web form can be accessed and the data is filled.<br />
 
+  **For more details, Goto Methodology.docx**
 <a name="solution_approach"/>
 
 ## Contributing
