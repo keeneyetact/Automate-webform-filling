@@ -6,6 +6,7 @@ This data entry task can be automated.Simultaneously, It is also time efficient 
 
 ## Table of Contents  
 [Solution Approach](#solution_approach)<br />
+[Screenshots](#screenshots)<br />
 [Contributing](#contributing) <br />
 [Support](#support)<br />
 
@@ -19,6 +20,26 @@ This data entry task can be automated.Simultaneously, It is also time efficient 
 
   **For more details, Goto Methodology.docx**
 <a name="solution_approach"/>
+
+## Screenshots
+
+### Structure of the input file
+![Structure of the input file](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/Screenshots/Structure%20of%20the%20input%20file.png)
+
+### Email with the attachment
+![Email with the attachment](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/Screenshots/Email%20with%20the%20attachment.png)
+
+### Structure of the Web form
+![Structure of the Web form](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/Screenshots/Structure%20of%20the%20web%20form.png)
+
+### Responses before executing
+![Responses before executing](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/Screenshots/Responses%20before%20executing.png)
+
+### Responses after executing
+![Responses after executing](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/Screenshots/Responses%20after%20executing.png)
+
+
+<a name="screenshots"/>
 
 ## Contributing
   ### Step 1
