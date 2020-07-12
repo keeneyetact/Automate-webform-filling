@@ -1,3 +1,12 @@
+![Python3](https://img.shields.io/badge/python-3-blue)
+![Selenium](https://img.shields.io/badge/selenium-python-blue)
+![GmailAPI](https://img.shields.io/badge/GmailAPI-python-blue)
+
+[![GitHub issues](https://img.shields.io/github/issues/MukilSaravanan/Automate-webform-filling)](https://github.com/MukilSaravanan/Automate-webform-filling/issues)
+[![GitHub forks](https://img.shields.io/github/forks/MukilSaravanan/Automate-webform-filling)](https://github.com/MukilSaravanan/Automate-webform-filling/network)
+[![GitHub stars](https://img.shields.io/github/stars/MukilSaravanan/Automate-webform-filling)](https://github.com/MukilSaravanan/Automate-webform-filling/stargazers)
+[![GitHub license](https://img.shields.io/github/license/MukilSaravanan/Automate-webform-filling)](https://github.com/MukilSaravanan/Automate-webform-filling/blob/master/LICENSE)
+
 # Automate-webform-filling
 
 * The data entry operator may be required to verify or edit data as it is entered, or another person might do this work.The data entry work may be time consuming, repeatative process and the data entry may even go wrong on times.So, this requires keen attention for every single moment to avoid mistakes, which  may not be guaranteed.
